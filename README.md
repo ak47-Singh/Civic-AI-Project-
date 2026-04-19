@@ -1,2 +1,3 @@
-# Civic-AI-Project-
-AI Civic issue reporting System
+# Welcome to your Lovable project
+
+TODO: Document your project here
